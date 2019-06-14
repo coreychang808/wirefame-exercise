@@ -1,0 +1,110 @@
+
+header{
+    border: 1px solid black;
+    background-color:rgb(53, 53, 53);
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 110px;
+
+} 
+
+#header{
+    border: 1px solid black;
+    width: 960px;
+    display: flex;
+    margin: auto;
+}
+
+#img {
+    display: inline-block;
+}
+
+
+li {
+    display: inline-block;
+    line-height:50px;
+    width: 120px;
+    background: white;
+    text-align: center;
+}
+
+
+
+
+
+#coolImage {
+    text-align: right;
+    height:450px;
+    width:960px;
+    margin: 30px;
+    border: 1px solid black;
+    position: relative;
+    display: inline-block
+}
+
+
+main{
+    text-align: center;
+}
+
+#middlePic1{
+    margin:14px;
+    border: 1px solid black;
+}
+
+#middlePic2{
+    margin:14px;
+    border: 1px solid black;
+}
+
+#middlePic3{
+    margin:14px;
+    border: 1px solid black;
+}
+
+
+#coolContent1 {
+    border: 1px solid black;
+    margin: 14px;
+    display: inline-block;
+    
+}
+
+#WordsAndThings {
+    margin: 14px;
+    width: 480px;
+    height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    display: inline-block;
+}
+
+#sectionHeader{
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+#textContent{
+    font-size: 20px;
+    
+}
+
+#button{
+    position: relative;
+    bottom:200;
+    
+}
+
+#footer{
+    border: 1px solid black;
+    background-color:rgb(53, 53, 53);
+    margin-top: 14px;
+    position: relative;
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    height: 110px;
+   
+}
